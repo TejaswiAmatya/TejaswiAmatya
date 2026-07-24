@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/JJRz2xSqNmBJTslPTr/giphy.gif" width="110" alt="hehe smile" />
+<img align="right" src="https://media.giphy.com/media/JJRz2xSqNmBJTslPTr/giphy.gif" width="110" alt="hehe smile" style="margin-left: 2cm;" />
 
 <p>I am a Rising Junior @ Gettysburg College. Majoring in Computer Science & Psychology</p>
 
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
 ### Languages:
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Frameworks & Libraries:
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -53,11 +55,14 @@ Here are some ideas to get you started:
 </p>
 
 ### Developer Tools:
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J00xOS4zNSAxMC4wNEE3LjQ5IDcuNDkgMCAwIDAgMTIgNEM5LjExIDQgNi42IDUuNjQgNS4zNSA4LjA0QTUuOTk0IDUuOTk0IDAgMCAwIDAgMTRjMCAzLjMxIDIuNjkgNiA2IDZoMTNjMi43NiAwIDUtMi4yNCA1LTUgMC0yLjY0LTIuMDUtNC43OC00LjY1LTQuOTZ6Jy8+PC9zdmc+" alt="AWS S3" />
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula" alt="GitHub Streak" /></a>
 
 </div>
