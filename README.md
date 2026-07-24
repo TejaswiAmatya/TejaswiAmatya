@@ -22,20 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <p>I am a Rising Junior @ Gettysburg College. Majoring in Computer Science & Psychology</p>
-      <ul>
-        <li>Interests: Full-stack and AI/ML</li>
-        <li>Open to: Software engineering internship opportunities</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/JJRz2xSqNmBJTslPTr/giphy.gif" width="180" alt="hehe smile" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/JJRz2xSqNmBJTslPTr/giphy.gif" width="180" alt="hehe smile" />
+
+<p>I am a Rising Junior @ Gettysburg College. Majoring in Computer Science & Psychology</p>
+
+- Interests: Full-stack and AI/ML
+- Open to: Software engineering internship opportunities
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
