@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img align="absmiddle" src="https://media.giphy.com/media/l1BgRucd74s7erdYs/giphy.gif" alt="pull up workout" height="140" width="140" />&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img align="absmiddle" src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula&card_width=400&card_height=160" alt="GitHub Streak" /></a>&nbsp;&nbsp;<img align="absmiddle" src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" height="140" width="140" />
+  &emsp;&emsp;<img align="absmiddle" src="https://media.giphy.com/media/l1BgRucd74s7erdYs/giphy.gif" alt="pull up workout" height="140" width="140" />&emsp;&emsp;<a href="https://git.io/streak-stats"><img align="absmiddle" src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula&card_width=400&card_height=160" alt="GitHub Streak" /></a>&emsp;&emsp;<img align="absmiddle" src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" height="140" width="140" />&emsp;&emsp;
 </p>
 
 </div>
