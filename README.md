@@ -79,22 +79,14 @@ Here are some ideas to get you started:
 
 ---
 
-<table align="center">
-  <tr>
-    <td valign="middle" align="center">
-      <img src="https://media.giphy.com/media/l1BgRucd74s7erdYs/giphy.gif" alt="pull up workout" height="170" width="170" />
-    </td>
-    <td width="24"></td>
-    <td valign="middle" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula" alt="GitHub Streak" height="195" />
-      </a>
-    </td>
-    <td width="24"></td>
-    <td valign="middle" align="center">
-      <img src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" height="170" width="170" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="absmiddle" src="https://media.giphy.com/media/l1BgRucd74s7erdYs/giphy.gif" alt="pull up workout" height="185" width="185" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git.io/streak-stats">
+    <img align="absmiddle" src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula" alt="GitHub Streak" height="195" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="absmiddle" src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" height="185" width="185" />
+</p>
 
 </div>
