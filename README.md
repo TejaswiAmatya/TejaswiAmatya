@@ -1,3 +1,5 @@
+<div style="font-family: 'Times New Roman', Times, serif;">
+
 ![Tejaswi Amatya](./Tejaswi%20Amatya.gif)
 
 <!--
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1><b>Full Stack | AI | ML</b></h1>
+
+---
+
+<h1>About Me</h1>
+
+<p>I am a Rising Junior @ Gettysburg College. Majoring in Computer Science & Psychology</p>
+
+- Interests: Full-stack, AI/ML, backend engineering
+- Open to: Software engineering internship opportunities
+
+</div>
