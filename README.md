@@ -80,13 +80,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img align="absmiddle" src="https://media.giphy.com/media/l1BgRucd74s7erdYs/giphy.gif" alt="pull up workout" height="185" width="185" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-    <img align="absmiddle" src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula" alt="GitHub Streak" height="195" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="absmiddle" src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" height="185" width="185" />
+  <img align="absmiddle" src="https://media.giphy.com/media/l1BgRucd74s7erdYs/giphy.gif" alt="pull up workout" height="140" width="140" />&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img align="absmiddle" src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula&card_width=400&card_height=160" alt="GitHub Streak" /></a>&nbsp;&nbsp;<img align="absmiddle" src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" height="140" width="140" />
 </p>
 
 </div>
