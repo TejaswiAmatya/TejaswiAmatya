@@ -69,22 +69,28 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://www.linkedin.com/in/tejaswi-amatya/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" />
+    <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:tejuamatya@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail" />
+    <img src="./icons/gmail.png" width="32" height="32" alt="Gmail" />
   </a>
 </p>
+
+<sub>
+  <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+  ·
+  <a href="https://www.flaticon.com/free-icons/network" title="network icons">Network icons created by justicon - Flaticon</a>
+</sub>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Flexed%20Biceps.png" alt="flexed biceps" width="80" height="80" />
+  <img src="https://media.giphy.com/media/l1BgRucd74s7erdYs/giphy.gif" alt="pull up workout" width="120" />
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula" alt="GitHub Streak" />
   </a>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Flexed%20Biceps.png" alt="flexed biceps" width="80" height="80" />
+  <img src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" width="120" />
 </p>
 
 </div>
