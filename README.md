@@ -22,14 +22,24 @@ Here are some ideas to get you started:
 
 ---
 
-<p>I am a Rising Junior @ Gettysburg College. Majoring in Computer Science & Psychology</p>
-
-- Interests: Full-stack and AI/ML
-- Open to: Software engineering internship opportunities
+<table>
+  <tr>
+    <td>
+      <p>I am a Rising Junior @ Gettysburg College. Majoring in Computer Science & Psychology</p>
+      <ul>
+        <li>Interests: Full-stack and AI/ML</li>
+        <li>Open to: Software engineering internship opportunities</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/JJRz2xSqNmBJTslPTr/giphy.gif" width="180" alt="hehe smile" />
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
-### Languages
+### Languages:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -38,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks & Libraries:
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -50,7 +60,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDIwVjEwaDN2MTBINHptNiAwVjRoM3YxNmgtM3ptNiAwdi03aDN2N2gtM3oiLz48L3N2Zz4=" alt="Matplotlib" />
 </p>
 
-### Developer Tools
+### Developer Tools:
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
