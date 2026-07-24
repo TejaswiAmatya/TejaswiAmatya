@@ -65,15 +65,26 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://www.linkedin.com/in/tejaswi-amatya/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:tejuamatya@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="27" height="27" /><i> Socials: </i>
+
+<p>
+  <a href="https://www.linkedin.com/in/tejaswi-amatya/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tejuamatya@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-## <a href="https://git.io/streak-stats" align = "center"><img src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Flexed%20Biceps.png" alt="flexed biceps" width="80" height="80" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula" alt="GitHub Streak" />
+  </a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Flexed%20Biceps.png" alt="flexed biceps" width="80" height="80" />
+</p>
 
 </div>
