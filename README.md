@@ -77,20 +77,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<sub>
-  <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
-  ·
-  <a href="https://www.flaticon.com/free-icons/network" title="network icons">Network icons created by justicon - Flaticon</a>
-</sub>
-
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1BgRucd74s7erdYs/giphy.gif" alt="pull up workout" height="170" width="170" style="vertical-align: middle;" />
+   <img src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" height="170" width="170" style="vertical-align: middle;" />
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=TejaswiAmatya&theme=dracula" alt="GitHub Streak" height="195" style="vertical-align: middle;" />
   </a>
-  <img src="https://media.giphy.com/media/f5uFgBWiWu8mHIrHRp/giphy.gif" alt="hamster workout" height="170" width="170" style="vertical-align: middle;" />
+
 </p>
 
 </div>
