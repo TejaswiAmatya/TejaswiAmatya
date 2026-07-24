@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/JJRz2xSqNmBJTslPTr/giphy.gif" width="180" alt="hehe smile" />
+<img align="right" src="https://media.giphy.com/media/JJRz2xSqNmBJTslPTr/giphy.gif" width="110" alt="hehe smile" />
 
 <p>I am a Rising Junior @ Gettysburg College. Majoring in Computer Science & Psychology</p>
 
