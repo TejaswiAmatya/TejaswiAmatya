@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1><b>Full Stack | AI | ML</b></h1>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=F6C500&width=500&height=60&lines=Full-Stack+%C2%B7+AI/ML" />
+</h1>
 
 ---
 
